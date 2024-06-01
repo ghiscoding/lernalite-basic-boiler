@@ -1,5 +1,12 @@
 {
   "version": "independent",
   "npmClient": "pnpm",
+  "command": {
+    "version": {
+      "conventionalCommits": true,
+      "message": "chore(release): publish new version %v",
+      "pushTagsOneByOne": true
+    }
+  },
   "packages": ["packages/*"]
 }
