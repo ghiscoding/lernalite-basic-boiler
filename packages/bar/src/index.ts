@@ -5,4 +5,4 @@ export const run = () => {
   return value
 }
 
-console.log(run())
+// console.log(run())
