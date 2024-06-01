@@ -1,6 +1,6 @@
 {
   "name": "@lernalite-basic/bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "private": true,
   "main": "dist/index.js",
