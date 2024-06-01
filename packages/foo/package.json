@@ -1,6 +1,6 @@
 {
   "name": "@lernalite-basic/foo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "private": true,
   "main": "dist/index.js",
@@ -23,7 +23,5 @@
     "coverage:show": "live-server coverage",
     "dev": "ts-node-dev -r tsconfig-paths/register src/index.ts",
     "start": "node dist/index.js"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+  }
 }
