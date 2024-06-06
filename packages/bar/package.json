@@ -25,5 +25,8 @@
   },
   "dependencies": {
     "@lernalite-basic/foo": "workspace:*"
+  },
+  "peerDependencies": {
+    "@lernalite-basic/foo": "workspace:*"
   }
 }
